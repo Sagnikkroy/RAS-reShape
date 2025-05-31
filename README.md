@@ -21,7 +21,7 @@ RAS-reShape is a CNN trained on Google QuickDraw sketches to recognize hand-draw
 
 ---
 
-## 🧠 What It Recognizes
+##  Fixation
 
 | Input | Output |
 |-------|--------|
