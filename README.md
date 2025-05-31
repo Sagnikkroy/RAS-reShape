@@ -1,7 +1,7 @@
 # RAS-reShape
 RAS-reShape is a CNN trained on Google QuickDraw sketches to recognize hand-drawn shapes like circles, rectangles, triangles, lines, and random doodles. Built for real-time raster shape beautification systems.
 <p align="center">
-  <img src="media/logo.png" alt="RAS-reShape" width="160" />
+  <img src="media/ras-reshapelogo.jpg" alt="RAS-reShape" width="160" />
 </p>
 
 <h1 align="center">More info</h1>
