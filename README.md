@@ -40,7 +40,7 @@ RAS-reShape is a CNN trained on Google QuickDraw sketches to recognize hand-draw
 
 ## How It Works (Abstracted)
 
-RAS-reShape learns from thousands of real human sketches using the [QuickDraw dataset](https://quickdraw.withgoogle.com/data). The CNN model is trained to classify a sketch into one of five shape categories. Once a shape is confidently identified, it is "beautified" by replacing it with a mathematically perfect version in real time.
+RAS-reShape learns from thousands of real human sketches using the [QuickDraw dataset]([https://quickdraw.withgoogle.com/data](https://github.com/googlecreativelab/quickdraw-dataset)). The CNN model is trained to classify a sketch into one of five shape categories. Once a shape is confidently identified, it is "beautified" by replacing it with a mathematically perfect version in real time.
 
 > If a drawing doesn’t resemble any shape, the model does nothing — maintaining the integrity of the original sketch.
 
